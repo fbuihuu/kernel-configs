@@ -1,0 +1,8 @@
+#+TITLE: Kernel Configuration Samples
+
+This repository track several kernel configurations each optimized for
+a specific platform.
+
+The layout used to store the configuration files is the one
+understandable by [[https://github.com/fbuihuu/kdist][kdist]], a tool
+to manage your kernel project.
